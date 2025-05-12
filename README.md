@@ -19,7 +19,7 @@ Here, you'll find my personal projects and the beginning of my journey into open
 - And more!
 
 ### 📫 How to reach me:
-- Email: **shubhamtohakecoc07@gmail**
+- Email: **shubhamtohake1@gmail**
 
 ---
 
