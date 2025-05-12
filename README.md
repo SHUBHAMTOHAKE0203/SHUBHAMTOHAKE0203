@@ -42,7 +42,7 @@ Here, you'll find my personal projects and the beginning of my journey into open
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
-![Java](https://img.shields.io/badge/-Java-00599C?style=flat&logo=java)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss)
