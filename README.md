@@ -3,22 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamtohake0203&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamtohake0203" /> </p>
 
-### 🔭 I’m currently working on:
-- Open Source Projects & My Personal Projects
+- 🔭 I’m currently working on **Open Source Projects & My Personal Projects**
 
-### 🌱 I’m currently learning:
-- Backend Development (Node.js, Express, MongoDB)
+- 🌱 I’m currently learning **Backend Development (Node.js, Express, MongoDB)**
 
-### 💬 Knowledgeable in:
-- React.js
-- Java
-- C/C++
-- Data Structures and Algorithms (DSA)
-- And more!
+- 💬 Ask me about **React.js Java C/C++ Data Structures and Algorithms (DSA) And more!**
 
-### 📫 How to reach me:
-- Email: **shubhamtohake1@gmail**
-
+- 📫 How to reach me **shubhamtohake1@gmail.com**
 ---
 
 <h3 align="left">Connect with me:</h3>
