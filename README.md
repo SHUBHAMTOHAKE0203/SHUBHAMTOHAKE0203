@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend Development (Node.js, Express, MongoDB)**
 
-- 💬 Ask me about **React.js Java C/C++ Data Structures and Algorithms (DSA) And more!**
+- 💬 Ask me about **React.js, Java, C/C++, Data Structures and Algorithms (DSA) And more!**
 
 - 📫 How to reach me **shubhamtohake1@gmail.com**
 ---
@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamtohake0203&show_icons=true&locale=en" alt="shubhamtohake0203" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamtohake0203&" alt="shubhamtohake0203" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SHUBHAMTOHAKE0203&" alt="shubhamtohake0203" /></p>
