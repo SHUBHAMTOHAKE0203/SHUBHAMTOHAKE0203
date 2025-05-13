@@ -33,4 +33,6 @@
 ---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamtohake0203&show_icons=true&locale=en&layout=compact" alt="shubhamtohake0203" /></p>
 
-⭐️ From [Shubham Tohake](https://github.com/SHUBHAMTOHAKE0203)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamtohake0203&show_icons=true&locale=en" alt="shubhamtohake0203" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamtohake0203&" alt="shubhamtohake0203" /></p>
