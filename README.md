@@ -49,5 +49,9 @@ Here, you'll find my personal projects and the beginning of my journey into open
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
 
 ---
+![](https://raw.githubusercontent.com/SHUBHAMTOHAKE0203/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/SHUBHAMTOHAKE0203/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/SHUBHAMTOHAKE0203/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/SHUBHAMTOHAKE0203/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ⭐️ From [Shubham Tohake](https://github.com/SHUBHAMTOHAKE0203)
