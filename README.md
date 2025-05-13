@@ -49,6 +49,6 @@ Here, you'll find my personal projects and the beginning of my journey into open
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
 
 ---
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamtohake0203&show_icons=true&locale=en&layout=compact" alt="shubhamtohake0203" /></p>
 
 ⭐️ From [Shubham Tohake](https://github.com/SHUBHAMTOHAKE0203)
