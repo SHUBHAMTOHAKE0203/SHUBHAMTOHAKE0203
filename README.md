@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Tohake</h1>
-<h3 align="center">I'm passionate about technology and enjoy working on various projects. Here, you'll find my personal projects and the beginning of my journey into open source.</h3>
-
+<h3 align="center"> 
+Driven by a passion for technology, I explore diverse projects and share my early steps into the world of open source.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamtohake0203&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamtohake0203" /> </p>
 
 - 🔭 I’m currently working on **Open Source Projects & My Personal Projects**
